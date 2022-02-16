@@ -15,5 +15,3 @@ def bubble_sort(org_array):
             break
 
     return array
-
-
